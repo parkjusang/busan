@@ -1,4 +1,4 @@
-# 부산에 있는 카페,음식점,관광지정보입니다.
+# parkjusang.github.io로 오시면 시연영상 있습니다~
 
 ![1](https://user-images.githubusercontent.com/83491335/119380194-5db6b400-bcfb-11eb-8c61-f8a1ba5b8699.png)
 ![2](https://user-images.githubusercontent.com/83491335/119380197-5ee7e100-bcfb-11eb-8f62-5099c8e7872b.png)
